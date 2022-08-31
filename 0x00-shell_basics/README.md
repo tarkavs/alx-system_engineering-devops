@@ -1,1 +1,1 @@
-2-bring_me_home
+echo Display the contents list of your current directory in a long format
