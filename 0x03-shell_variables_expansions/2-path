@@ -1,3 +1,2 @@
- Bytes
 #!/bin/bash
-echo $(($BREATH**$LOVE))
+export PATH=$PATH:/action
